@@ -39,4 +39,4 @@ Nevertheless, due to restrictions of the Intel OpenMP implementation, the value 
 
 # License #
 
-SABO is an open access software and it is licensed under a limited use MIT-based license. Full text of this license can be found in the LICENSE files.
+SABO is an open access software and it is licensed under a limited source-available software license. Full text of this license can be found in the LICENSE files.
